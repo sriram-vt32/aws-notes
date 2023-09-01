@@ -27,65 +27,65 @@ There are 4 cloud deployment types.
 -	Any1 can access.
 -	Most of org use public cloud along with security policies.
 
-###Adv
+### Adv
 -	Low cost
 -	Service providers manage all the infrastructure
 -	Reduced wait times
 -	Enough space provided.
 
-###Disadv
+### Disadv
 -	The data breach security risk
 -	Network performance
 -	Lack of customization because its predefined
 
-#Private cloud
+# Private cloud
 -	It’s used to avoid data breach risks.
 
-###Adv
+### Adv
 -	Customization
 -	Data security is very high and controlled along with ownership.
 -	Legacy systems (features to integrate or support legacy applications)
 
-###Disadv
+### Disadv
 -	High costs
 -	Limited scalability
 
-#Community cloud
+# Community cloud
 -	It’s almost like a private cloud
 -	For a set of users
 -	Eg for community cloud: salesforce
 
-###Adv 
+### Adv 
 -	Cost benefits
 -	Its user acc based.
 -	Data sharing and collab
 
-###disadv
+### disadv
 -	Limited storage and bandwidth
 
-#Hybrid cloud
-it consists of 2 or more cloud combinations
-Public cloud to data side for most scenarios
-Financial org use these
+# Hybrid cloud
+- it consists of 2 or more cloud combinations
+- Public cloud to data side for most scenarios
+- Financial org use these
 
-###Advs:
+### Advs:
 -	Flexibility and control
 -	Cost benefits
 -	Agility 
 
-###Disadv
+### Disadv
 -	Maintenance and challenging integrations
 
-#Cloud computing models
+# Cloud computing models
 -	Infra as a service (everything done from scratch)
 -	Platform as a service
 -	Software as a service
 
-##Cloud share responsibility model
+## Cloud share responsibility model
 shared responsibility defines the security of this model.
--paas responsibilities are less.
--iaas responsibilities are more.
--sas services responsibilities are minimal.
+- paas responsibilities are less.
+- iaas responsibilities are more.
+- sas services responsibilities are minimal.
 
 ## Interview Q/A
 How do we select cloud service?
@@ -100,12 +100,12 @@ Ans: select cloud service provider.
 -	On demand
 -	Spot instance
 
-##31st august
- ##Aws acc and organizations
+## 31st august
+ ## Aws acc and organizations
 -	Aws or any cloud service provider  gives some free tier acc ( $300 aws free tier)
 -	Have 3 accounts : Management acc, dev acc and prod acc
 
-##Landing zone
+## Landing zone
 This allows us to quickly set up a cloud env by automation with best config along with security.
 -	Its scalable
 -	Multi acc management is easy.
@@ -118,14 +118,14 @@ This allows us to quickly set up a cloud env by automation with best config alon
 -	We can set limitations.
 -	It adapts well architecture and can quickly deploy new applications.
 
-How do we create a landing zone:
+## How do we create a landing zone:
 -	Service based landing zone: aws control tower , a gui tool with predefined scripts used to create a landing zone.
 -	Infrasture as a cloud.
 -	Third party IAC tool : terraform. 
 
-AWS well arch and the 6 pillars
+# AWS well architecture and the 6 pillars
 -	Aws well architected  calls for key concepts, principles  and practices for running in cloud
-Six Pillars:
+## Six Pillars:
 -	Operational excellency
 -	 We use this to manage cicd.
 -	We perform operations as code,
