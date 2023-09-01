@@ -1,5 +1,7 @@
 AWS notes
+
 29th august
+
 The delivery of type computer services is cloud computing.
 Benefits:
 •	Reduce costs.
@@ -108,12 +110,27 @@ AWS well arch and the 6 pillars
 •	Aws well architected  calls for key concepts, principles  and practices for running in cloud
 Six Pillars:
 •	Operational excellency
+o	 We use this to manage cicd.
+o	We perform operations as code,
+o	 We need to anticipate failure and refines the operations procedures frequently .
+o	Learn from failures.
 •	Security
+o	to protect data and cloud. 
+o	IAM 
+o	Tracing (in vpc we have CloudTrail)
+o	Tight security and automated is always preferred.
+o	 Data needs to be always protected even when in rest or transit.
+o	Give access to authorized ppl only. 
+o	Prepare for any security threats.
 •	Reliability
+o	Focus on workload performance(utilization included).
+o	 
+o	
 •	Performance efficiency 
 •	Cost optimizations 
 •	sustainability
-AWS lenses provide suggestion for architecture based on data collected.
+AWS lenses provide suggestions for architecture based on data collected.
+AWS has their own CDN(cloud delivery network) CloudFront. 
 
 
 
