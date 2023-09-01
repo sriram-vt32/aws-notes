@@ -3,6 +3,7 @@
 ## 29th august
 
 The delivery of cloud type computer services is cloud computing.
+
 **Benefits:**
 -	Reduce costs.
 -	Global scale
