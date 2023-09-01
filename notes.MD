@@ -1,5 +1,6 @@
 # AWS notes
-29th august
+
+## 29th august
 The delivery of type computer services is cloud computing.
 Benefits:
 •	Reduce costs.
