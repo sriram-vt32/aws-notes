@@ -1,15 +1,16 @@
 # AWS notes
 
 ## 29th august
-The delivery of type computer services is cloud computing.
-Benefits:
-•	Reduce costs.
-•	Global scale
-•	Performance
-•	Security
-•	Speed
-•	Productivity
-•	Reliability (disaster recovery)
+
+The delivery of cloud type computer services is cloud computing.
+**Benefits:**
+-	Reduce costs.
+-	Global scale
+-	Performance
+-	Security
+-	Speed
+-	Productivity
+-	Reliability (disaster recovery)
 
 Who the users for cloud computing:
 •	Organizations (all types)
