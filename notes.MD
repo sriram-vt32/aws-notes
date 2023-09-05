@@ -13,7 +13,7 @@ The delivery of cloud type computer services is cloud computing.
 -	Productivity
 -	Reliability (disaster recovery)
 
-Who are the users for cloud computing:
+## Who are the users for cloud computing:
 
 -	Organizations (all types)
 
@@ -23,7 +23,7 @@ There are 4 cloud deployment types.
 -	Hybrid cloud
 -	Community cloud
 
-#Public cloud: 
+# Public cloud: 
 -	Any1 can access.
 -	Most of org use public cloud along with security policies.
 
